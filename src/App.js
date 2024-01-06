@@ -1,5 +1,4 @@
 import React from "react";
-import { findRenderedComponentWithType } from "react-dom/test-utils";
 
 import {
   Footer,
@@ -30,4 +29,4 @@ const App = () => {
   );
 };
 
-export default app;
+export default App;
